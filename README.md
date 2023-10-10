@@ -5,8 +5,7 @@ This repository contains memory access patterns used as input to the [Spatter](h
 To use these inputs, first build the benchmark, then run it as follows:
 
 ```
-./spatter -pFILE=/org-name/pattern-file.json
-
+./spatter -pFILE=/path/to/pattern-file.json
 ```
 
 ## Contributing
